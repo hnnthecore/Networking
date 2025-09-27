@@ -1,5 +1,4 @@
 # Networking
-# CCNA Personal Lab
 
 Personal CCNA lab composed of:
 
